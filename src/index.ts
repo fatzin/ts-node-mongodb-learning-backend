@@ -24,7 +24,7 @@ server.listen(8080, () => {
     console.log("Servidor rodando em http://localhost:8080");
 });
 
-const MONGO_URL = 'mongodb+srv://admin:vgKH2tzLd3VV5rey@database-test.olenfnk.mongodb.net/?retryWrites=true&w=majority'
+const MONGO_URL = '' //Adicione a sua URI
 
 mongoose.Promise = Promise;
 mongoose.connect(MONGO_URL);
