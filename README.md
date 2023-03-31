@@ -1,4 +1,4 @@
-# TypeScript, Node, Express - BackEnd API server
+# TypeScript, Node, Express, MongoDB - BackEnd API server
 ```
 //instaLAR dependências necessárias
 npm install
