@@ -1,11 +1,7 @@
 # TypeScript, Node, Express - BackEnd API server
 ```
-//dependências necessárias
-npm install express body-parser cookie-parser compression cors mongoose lodash nodemon ts-node typescript
-```
-```
-//dependências necessárias
-npm i -d @types/express @types/body-parser @types/cookie-parser @types/compression @types/cors @types/mongoose @types/lodash
+//instaLAR dependências necessárias
+npm install
 ```
 ## src/index.ts
 
